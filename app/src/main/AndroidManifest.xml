@@ -25,6 +25,7 @@
         <activity android:name=".CarListActivity" />
         <activity android:name=".CheckOutActivity" />
         <activity android:name=".PaymentActivity" />
+        <activity android:name=".FinalOrderActivity" />
     </application>
 
 </manifest>

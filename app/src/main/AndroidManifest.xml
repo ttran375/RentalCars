@@ -23,6 +23,7 @@
         </activity>
         <activity android:name=".CarTypeActivity" />
         <activity android:name=".CarListActivity" />
+        <activity android:name=".CheckOutActivity" />
     </application>
 
 </manifest>

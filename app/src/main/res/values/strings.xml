@@ -2,4 +2,9 @@
     <string name="app_name">RentalCars</string>
     <string name="company_logo">Company Logo</string>
     <string name="drive">Drive</string>
+    <string name="select_car_type">Select Car Type:</string>
+    <string name="coupe">Coupe</string>
+    <string name="hatchback">Hatchback</string>
+    <string name="sedan">Sedan</string>
+    <string name="suv">SUV</string>
 </resources>

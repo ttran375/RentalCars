@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RentalCars</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="drive">Drive</string>
 </resources>
